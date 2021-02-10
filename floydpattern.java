@@ -1,6 +1,6 @@
-package assignment1;
+package Assignment1;
 
-public class floydpattern {
+public class Floydpattern {
 
 	public static void main(String[] args) {
 		for(int i=1;i<=3;i++)
