@@ -1,6 +1,6 @@
-package assignment1;
+package Assignment1;
 
-public class first_n_prime {
+public class First_N_Prime {
 
 	public static void main(String[] args) {
 		int ct=0,n=0,i=1,j=1;  
