@@ -1,6 +1,6 @@
-package assignment1;
+package Assignment1;
 
-public class primenos {
+public class Primenos {
 
 	public static void main(String[] args) {
 		for(int i=10;i<=99;i++)
