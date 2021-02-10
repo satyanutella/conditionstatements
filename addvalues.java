@@ -1,8 +1,8 @@
-package assignment1;
+package Assignment1;
 
 import java.util.Scanner;
 
-public class addvalues {
+public class Addvalues {
 
 	public static void main(String[] args) {
 		int sum=0,count=0;
