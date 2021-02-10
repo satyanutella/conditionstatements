@@ -1,8 +1,8 @@
-package assignment1;
+package Assignment1;
 
 import java.util.Scanner;
 
-public class palindrome {
+public class Palindrome {
 
 	public static void main(String[] args) {
 		System.out.println("Enter a number");
