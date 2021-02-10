@@ -1,6 +1,6 @@
-package assignment1;
+package Assignment1;
 
-public class divisible {
+public class Divisible {
 
 	public static void main(String[] args) {
 		int count = 0,n=30;
