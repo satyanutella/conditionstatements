@@ -1,6 +1,6 @@
-package assignment1;
+package Assignment1;
 
-public class first_n_series {
+public class First_N_Series {
 
 	public static void main(String[] args) {
 		System.out.println("The series is : ");
